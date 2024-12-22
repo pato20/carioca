@@ -1,4 +1,5 @@
 {
     "latest_version": "1.0.1",
+    "force_update": true,
     "download_url": "https://github.com/pato20/carioca"
   }
