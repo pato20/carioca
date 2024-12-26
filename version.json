@@ -1,5 +1,4 @@
 {
-  "latest_version": "1.0.3",
-  "force_update": false,
-  "download_url": "https://github.com/pato20/carioca/blob/4d5d3b7cbede4d70834cfbf91a5f301c68e5f499/app-release.apk"
+  "force_update": true,
+  "download_url": "https://github.com/pato20/carioca/releases/download/"
 }
